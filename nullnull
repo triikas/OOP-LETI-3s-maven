@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>База автосервиса</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+</head>
+<body>
+<section class="d-flex justify-content-center"><table class="table table-striped-columns">
+<tr  style="background-color: chocolate;">
+<td>ФИО заказчика</td><td>Автомобиль</td><td>Неисправность</td><td>Дата приёма</td><td>Дата выполнения</td><td>Работник</td><td>Специализация работника</td></tr>
+<tr>
+<td>Иванов Иван Иванович</td><td>Toyota Camry</td><td>Проблемы с двигателем</td><td>2023-10-05</td><td>2023-10-10</td><td>Петров Петр Петрович</td><td>Механик по двигателю</td></tr>
+<tr>
+<td>Петрова Анна Сергеевна</td><td>Ford Focus</td><td>Замена масла и фильтров</td><td>2023-09-28</td><td>2023-09-28</td><td>Сидоров Игорь Александрович</td><td>Специалист по обслуживанию</td></tr>
+<tr>
+<td>Смирнов Сергей Павлович</td><td>Nissan X-Trail</td><td>Проблемы с трансмиссией</td><td>2023-10-15</td><td>2023-10-20</td><td>Ковалев Андрей Николаевич</td><td>Механик по трансмиссии</td></tr>
+<tr>
+<td>Козлов Андрей Михайлович</td><td>Chevrolet Cruze</td><td>Замена тормозных колодок</td><td>2023-11-03</td><td>2023-11-03</td><td>Морозов Алексей Владимирович</td><td>Специалист по тормозной системе</td></tr>
+<tr>
+<td>Соколова Екатерина Владимировна</td><td>Honda Civic</td><td>Проблемы с электрикой</td><td>2023-09-20</td><td>2023-09-25</td><td>Иванова Нина Сергеевна</td><td>Электрик автомобилей</td></tr>
+<tr>
+<td>Павлов Павел Петрович</td><td>Volkswagen Golf</td><td>Замена аккумулятора</td><td>2023-11-10</td><td>2023-11-10</td><td>Смирнов Илья Алексеевич</td><td>Специалист по электрике</td></tr>
+<tr>
+<td>Михайлова Ольга Андреевна</td><td>Mazda CX-5</td><td>Проблемы с подвеской</td><td>2023-10-28</td><td>2023-11-02</td><td>Козлов Андрей Михайлович</td><td>Механик по подвеске</td></tr>
+<tr>
+<td>Кузнецов Игорь Александрович</td><td>Hyundai Sonata</td><td>Замена масла и фильтров</td><td>2023-09-15</td><td>2023-09-15</td><td>Соколов Алексей Иванович</td><td>Специалист по обслуживанию</td></tr>
+<tr>
+<td>Александров Сергей Андреевич</td><td>Kia Sportage</td><td>Проблемы с кондиционером</td><td>2023-10-12</td><td>2023-10-17</td><td>Павлов Алексей Павлович</td><td>Специалист по кондиционерам</td></tr>
+<tr>
+<td>Гончарова Мария Дмитриевна</td><td>Subaru Outback</td><td>Замена трансмиссионного масла</td><td>2023-11-18</td><td>2023-11-18</td><td>Гончаров Дмитрий Вячеславович</td><td>Специалист по трансмиссии</td></tr>
+<tr>
+<td>Дмитриев Владимир Сергеевич</td><td>Toyota RAV4</td><td>Проблемы с топливной системой</td><td>2023-09-22</td><td>2023-09-27</td><td>Кузнецов Андрей Петрович</td><td>Специалист по топливной системе</td></tr>
+<tr>
+<td>Сорокина Елена Анатольевна</td><td>Ford Escape</td><td>Замена задних фар</td><td>2023-11-25</td><td>2023-11-25</td><td>Сорокин Анатолий Владимирович</td><td>Специалист по освещению</td></tr>
+<tr>
+<td>Андреев Александр Валерьевич</td><td>Chevrolet Equinox</td><td>Проблемы с трансмиссией</td><td>2023-09-10</td><td>2023-09-15</td><td>Дмитриев Сергей Андреевич</td><td>Механик по трансмиссии</td></tr>
+<tr>
+<td>Королев Антон Викторович</td><td>Nissan Rogue</td><td>Замена передних тормозов</td><td>2023-10-08</td><td>2023-10-08</td><td>Королев Виктор Андреевич</td><td>Специалист по тормозной системе</td></tr>
+<tr>
+<td>Савельева Татьяна Павловна</td><td>Honda CR-V</td><td>Проблемы с двигателем</td><td>2023-11-12</td><td>2023-11-17</td><td>Савельев Павел Иванович</td><td>Механик по двигателю</td></tr>
+<tr>
+<td>Лебедев Дмитрий Валентинович</td><td>Volkswagen Passat</td><td>Замена масла и фильтров</td><td>2023-09-30</td><td>2023-10-05</td><td>Лебедев Валентин Александрович</td><td>Специалист по обслуживанию</td></tr>
+<tr>
+<td>Жан Этье Ламондуа</td><td>Мустанг 5 лет</td><td>Перелом ноги</td><td>11.11.1691</td><td>23.02.1692</td><td>Ванька</td><td>Коновал</td></tr>
+</table></section>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script></body>
+</html>
